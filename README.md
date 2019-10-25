@@ -19,3 +19,4 @@
 # duvidas
 - giseldo@gmail.com
 - 82 9 9805 5997 (wats app)
+- Para autorização com permissão de commit envie email solicitando.
