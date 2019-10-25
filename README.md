@@ -1,4 +1,4 @@
-# chatbot_exercises
+# chatbot_exercises (parte 1)
 
 - clone o repositorio
 - crie uma cópia de cada um dos exercícios original com o seu nome. Exemplo: exe1.py novo arquivo criado: exe1jose.py
