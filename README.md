@@ -2,8 +2,8 @@
 
 - clone o repositorio
 - crie uma cópia de cada um dos exercícios original com o seu nome. Exemplo: exe1.py novo arquivo criado: exe1jose.py
-- preencha as lacunas faltantes de acordo com os comentários no inicio do arquivo
-- envie para o repositorio as respostas 
+- preencha as lacunas faltantes de acordo com os comentários no início do arquivo. 
+- envie para o repositório as respostas 
 
 # instruções para commit
 
@@ -18,5 +18,5 @@
 
 # duvidas
 - giseldo@gmail.com
-- 82 9 9805 5997 (wats app)
+- 82 9 9805 5997 (whats app)
 - Para autorização com permissão de commit envie email solicitando.
