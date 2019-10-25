@@ -1,10 +1,13 @@
 # chatbot_exercises
 
-Crie uma cópia de cada um dos exercícios original com o seu nome. Exemplo: exe1.py novo arquivo criado: exe1jose.py
+- clone o repositorio
+- crie uma cópia de cada um dos exercícios original com o seu nome. Exemplo: exe1.py novo arquivo criado: exe1jose.py
+- envie para o repositorio as respostas 
 
 # instruções para commit
 
 - mkdir exercicios
+- cd exercicios
 - git clone https://github.com/giseldo/chatbot_exercises.git
 
 - git add . // adiciona os arquivos a serem enviados
