@@ -1,6 +1,6 @@
 # chatbot_exercises (parte 1)
 
-- clone o repositorio
+- clone o repositório
 - crie uma cópia de cada um dos exercícios original com o seu nome. Exemplo: exe1.py novo arquivo criado: exe1jose.py
 - preencha as lacunas faltantes de acordo com os comentários no início do arquivo. 
 - envie para o repositório as respostas 
