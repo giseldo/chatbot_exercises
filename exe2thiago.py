@@ -13,6 +13,7 @@ bot_template = "BOT : {0}"
 user_template = "USER : {0}"
 
 
+
 def respond(message):
     # Concatenate the user's message to the end of a standard bot respone
     bot_message = "I can hear you! You said: " + message

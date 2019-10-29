@@ -14,6 +14,7 @@
 # Import the random module
 import random
 
+
 # Create templates
 bot_template = "BOT : {0}"
 user_template = "USER : {0}"
