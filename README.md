@@ -20,3 +20,7 @@
 - giseldo@gmail.com
 - 82 9 9805 5997 (whats app)
 - Para autorização com permissão de commit envie email solicitando.
+
+# releases
+0.1 Primeira versão
+0.2 O exe8 estava com um erro no código apontado por Audrey, o método com erro já foi corrigido, necessário pegar última versão: git pull
