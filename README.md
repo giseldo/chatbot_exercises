@@ -1,8 +1,8 @@
 # chatbot_exercises 
 
 ## Objetivo
-Aprender práticas de codificação de agentes conversacionais baseados no Eliza.
-Atividade hands-on em python que vão aumentando em complexidade.
+- Aprender práticas de codificação de agentes conversacionais baseados no Eliza.
+- Atividade hands-on em python que vão aumentando em complexidade.
 
 ## Intruções
 - Execute essas 08 exercícios para reforçar o aprendizado;
