@@ -5,7 +5,7 @@ Aprender práticas de codificação de agentes conversacionais baseados no Eliza
 Atividade hands-on em python que vão aumentando em complexidade.
 
 ## Intruções
-- Execute essas 08 tarefas
+- Execute essas 08 exercícios para reforçar o aprendizado;
 - Preencha as lacunas faltantes de acordo com os comentários no início do arquivo;
 - Envie para o repositório as respostas (commit e push).
 
