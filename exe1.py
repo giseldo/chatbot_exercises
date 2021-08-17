@@ -1,5 +1,3 @@
-# https://campus.datacamp.com/courses/building-chatbots-in-python/
-
 # EchoBot I
 # Hello, World!
 # You'll begin learning how to build chatbots in Python by writing two functions to build the simplest bot

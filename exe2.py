@@ -1,4 +1,3 @@
-# https://campus.datacamp.com/courses/building-chatbots-in-python/chatbots-101?ex=3
 # EchoBot II
 # Having written your respond() function, you'll now define a function called send_message() with a single parameter message which logs the message and the bot's response.
  

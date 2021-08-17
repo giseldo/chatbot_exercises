@@ -1,4 +1,3 @@
-# https://campus.datacamp.com/courses/building-chatbots-in-python/chatbots-101?ex=6
 # Adding variety
 # It can get a little boring hearing the same old answers over and over. In this exercise, you'll add some variation.
 # If you ask your bot how it's feeling, the likelihood that it responds with "oh I'm great!" or "I'm very sad today" should be equal.

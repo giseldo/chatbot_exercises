@@ -1,4 +1,3 @@
-# https://campus.datacamp.com/courses/building-chatbots-in-python/chatbots-101?ex=5
 # Chitchat
 # Now you're going to leave the simple EchoBot behind and create a bot which can answer simple questions such as "What's your name?" and "What's today's weather?"
 # You'll use a dictionary with these questions as keys and the correct responses as values.

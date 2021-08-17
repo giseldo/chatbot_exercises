@@ -1,4 +1,3 @@
-# https://campus.datacamp.com/courses/building-chatbots-in-python/chatbots-101?ex=11
 # Now you're going to put everything from the previous exercises together and experience the magic!
 # The match_rule(), send_message(), and replace_pronouns() functions have already been defined,
 # and the rules dictionary is available in your workspace.

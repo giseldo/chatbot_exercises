@@ -1,5 +1,3 @@
-# https://campus.datacamp.com/courses/building-chatbots-in-python/chatbots-101?ex=9
-
 # ELIZA II: Extracting key phrases
 # The really clever thing about ELIZA is the way the program appears to understand what you told it by occasionally
 # including phrases uttered by the user in its responses.

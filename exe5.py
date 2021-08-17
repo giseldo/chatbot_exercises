@@ -1,5 +1,3 @@
-# https://campus.datacamp.com/courses/building-chatbots-in-python/chatbots-101?ex=7
-
 # ELIZA I: asking questions
 # Asking questions is a great way to create an engaging conversation. Here, you'll create the very first
 # hint of ELIZA's famous personality, by responding to statements with a question and responding to questions with answers.

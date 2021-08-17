@@ -1,4 +1,3 @@
-# https://campus.datacamp.com/courses/building-chatbots-in-python/chatbots-101?ex=10
 # ELIZA III: Pronouns
 
 # To make responses grammatically coherent, you'll want to transform the extracted phrases from first to second 
